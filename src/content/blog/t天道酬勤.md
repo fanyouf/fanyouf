@@ -3,14 +3,12 @@ author: Sat Naing
 pubDatetime: 2022-09-23
 modDatetime: 2023-12-21
 title: Adding new posts in AstroPaper theme
-slug: adding-new-posts-in-astropaper-theme
+slug: tiandaochouqin
 featured: true
 draft: false
 tags:
   - docs
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+description: 可能我们理解的都是错的
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
